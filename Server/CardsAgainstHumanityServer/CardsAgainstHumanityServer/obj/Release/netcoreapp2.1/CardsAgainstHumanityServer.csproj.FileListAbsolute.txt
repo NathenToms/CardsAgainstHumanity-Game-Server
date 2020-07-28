@@ -1,0 +1,10 @@
+C:\Users\Nathe\OneDrive\Documents\Visual Studio 2017\Projects\CardsAgainstHumanityServer\CardsAgainstHumanityServer\bin\Release\netcoreapp2.1\CardsAgainstHumanityServer.deps.json
+C:\Users\Nathe\OneDrive\Documents\Visual Studio 2017\Projects\CardsAgainstHumanityServer\CardsAgainstHumanityServer\bin\Release\netcoreapp2.1\CardsAgainstHumanityServer.runtimeconfig.json
+C:\Users\Nathe\OneDrive\Documents\Visual Studio 2017\Projects\CardsAgainstHumanityServer\CardsAgainstHumanityServer\bin\Release\netcoreapp2.1\CardsAgainstHumanityServer.runtimeconfig.dev.json
+C:\Users\Nathe\OneDrive\Documents\Visual Studio 2017\Projects\CardsAgainstHumanityServer\CardsAgainstHumanityServer\bin\Release\netcoreapp2.1\CardsAgainstHumanityServer.dll
+C:\Users\Nathe\OneDrive\Documents\Visual Studio 2017\Projects\CardsAgainstHumanityServer\CardsAgainstHumanityServer\bin\Release\netcoreapp2.1\CardsAgainstHumanityServer.pdb
+C:\Users\Nathe\OneDrive\Documents\Visual Studio 2017\Projects\CardsAgainstHumanityServer\CardsAgainstHumanityServer\obj\Release\netcoreapp2.1\CardsAgainstHumanityServer.csproj.CoreCompileInputs.cache
+C:\Users\Nathe\OneDrive\Documents\Visual Studio 2017\Projects\CardsAgainstHumanityServer\CardsAgainstHumanityServer\obj\Release\netcoreapp2.1\CardsAgainstHumanityServer.AssemblyInfoInputs.cache
+C:\Users\Nathe\OneDrive\Documents\Visual Studio 2017\Projects\CardsAgainstHumanityServer\CardsAgainstHumanityServer\obj\Release\netcoreapp2.1\CardsAgainstHumanityServer.AssemblyInfo.cs
+C:\Users\Nathe\OneDrive\Documents\Visual Studio 2017\Projects\CardsAgainstHumanityServer\CardsAgainstHumanityServer\obj\Release\netcoreapp2.1\CardsAgainstHumanityServer.dll
+C:\Users\Nathe\OneDrive\Documents\Visual Studio 2017\Projects\CardsAgainstHumanityServer\CardsAgainstHumanityServer\obj\Release\netcoreapp2.1\CardsAgainstHumanityServer.pdb

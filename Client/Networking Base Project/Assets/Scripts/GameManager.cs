@@ -115,7 +115,6 @@ public class GameManager : MonoBehaviour
 	}
 
 
-
 	/// <summary> When we connect to the server </summary>
 	public void OnConnectToServer()
 	{
@@ -249,6 +248,39 @@ public class GameManager : MonoBehaviour
 		}
 	}
 
+	/// <summary>  Send our selected cards to the server </summary>
+	public void Submit()
+	{
+		if (Hand.Instance.CanSubmit())  {
+			Hand.Instance.Submit();
+			handBlocker.gameObject.SetActive(true);
+		}
+	}
+
+
+	/// <summary> Add a player to the lobby </summary>
+	public void AddNewPlayer(int ID, string username)
+	{
+		if (playerUIs.ContainsKey(ID)) {
+			Chat.Print("A play who is already connected to the lobby attempted to join!", MessageType.Default);
+		}
+		else
+		{
+			PlayerPanel playerPanel = Instantiate(playerPanelPrefab, lobbyAnchor);
+			playerPanel.Initialized(ID, username);
+			playerUIs.Add(ID, playerPanel);
+		}
+	}
+
+	/// <summary> Remove a player to the lobby </summary>
+	public void RemovePlayer(int ID)
+	{
+		if (playerUIs.ContainsKey(ID))
+		{
+			Destroy(playerUIs[ID].gameObject);
+			playerUIs.Remove(ID);
+		}
+	}
 
 	#region Private Methods
 	void UpdateQuestion(string question, int cardsNeeded)
@@ -335,39 +367,4 @@ public class GameManager : MonoBehaviour
 		}
 	}
 	#endregion
-
-
-	/// <summary>  Send our selected cards to the server </summary>
-	public void Submit()
-	{
-		if (Hand.Instance.CanSubmit())  {
-			Hand.Instance.Submit();
-			handBlocker.gameObject.SetActive(true);
-		}
-	}
-
-
-	/// <summary> Add a player to the lobby </summary>
-	public void AddNewPlayer(int ID, string username)
-	{
-		if (playerUIs.ContainsKey(ID)) {
-			Chat.Print("A play who is already connected to the lobby attempted to join!", MessageType.Default);
-		}
-		else
-		{
-			PlayerPanel playerPanel = Instantiate(playerPanelPrefab, lobbyAnchor);
-			playerPanel.Initialized(ID, username);
-			playerUIs.Add(ID, playerPanel);
-		}
-	}
-
-	/// <summary> Remove a player to the lobby </summary>
-	public void RemovePlayer(int ID)
-	{
-		if (playerUIs.ContainsKey(ID))
-		{
-			Destroy(playerUIs[ID].gameObject);
-			playerUIs.Remove(ID);
-		}
-	}
 }

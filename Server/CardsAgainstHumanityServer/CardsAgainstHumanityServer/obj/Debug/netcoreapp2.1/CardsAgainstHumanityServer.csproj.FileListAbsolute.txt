@@ -20,3 +20,14 @@ C:\Users\Nathe\Desktop\CardsAgainstHumanity-Game-Server\Server\CardsAgainstHuman
 C:\Users\Nathe\Desktop\CardsAgainstHumanity-Game-Server\Server\CardsAgainstHumanityServer\CardsAgainstHumanityServer\obj\Debug\netcoreapp2.1\CardsAgainstHumanityServer.AssemblyInfo.cs
 C:\Users\Nathe\Desktop\CardsAgainstHumanity-Game-Server\Server\CardsAgainstHumanityServer\CardsAgainstHumanityServer\obj\Debug\netcoreapp2.1\CardsAgainstHumanityServer.dll
 C:\Users\Nathe\Desktop\CardsAgainstHumanity-Game-Server\Server\CardsAgainstHumanityServer\CardsAgainstHumanityServer\obj\Debug\netcoreapp2.1\CardsAgainstHumanityServer.pdb
+D:\GitHub\CardsAgainstHumanity-Game-Server\Server\CardsAgainstHumanityServer\CardsAgainstHumanityServer\Build\netcoreapp2.1\CardsAgainstHumanityServer.deps.json
+D:\GitHub\CardsAgainstHumanity-Game-Server\Server\CardsAgainstHumanityServer\CardsAgainstHumanityServer\Build\netcoreapp2.1\CardsAgainstHumanityServer.runtimeconfig.json
+D:\GitHub\CardsAgainstHumanity-Game-Server\Server\CardsAgainstHumanityServer\CardsAgainstHumanityServer\Build\netcoreapp2.1\CardsAgainstHumanityServer.runtimeconfig.dev.json
+D:\GitHub\CardsAgainstHumanity-Game-Server\Server\CardsAgainstHumanityServer\CardsAgainstHumanityServer\Build\netcoreapp2.1\CardsAgainstHumanityServer.dll
+D:\GitHub\CardsAgainstHumanity-Game-Server\Server\CardsAgainstHumanityServer\CardsAgainstHumanityServer\Build\netcoreapp2.1\CardsAgainstHumanityServer.pdb
+D:\GitHub\CardsAgainstHumanity-Game-Server\Server\CardsAgainstHumanityServer\CardsAgainstHumanityServer\obj\Debug\netcoreapp2.1\CardsAgainstHumanityServer.csprojAssemblyReference.cache
+D:\GitHub\CardsAgainstHumanity-Game-Server\Server\CardsAgainstHumanityServer\CardsAgainstHumanityServer\obj\Debug\netcoreapp2.1\CardsAgainstHumanityServer.csproj.CoreCompileInputs.cache
+D:\GitHub\CardsAgainstHumanity-Game-Server\Server\CardsAgainstHumanityServer\CardsAgainstHumanityServer\obj\Debug\netcoreapp2.1\CardsAgainstHumanityServer.AssemblyInfoInputs.cache
+D:\GitHub\CardsAgainstHumanity-Game-Server\Server\CardsAgainstHumanityServer\CardsAgainstHumanityServer\obj\Debug\netcoreapp2.1\CardsAgainstHumanityServer.AssemblyInfo.cs
+D:\GitHub\CardsAgainstHumanity-Game-Server\Server\CardsAgainstHumanityServer\CardsAgainstHumanityServer\obj\Debug\netcoreapp2.1\CardsAgainstHumanityServer.dll
+D:\GitHub\CardsAgainstHumanity-Game-Server\Server\CardsAgainstHumanityServer\CardsAgainstHumanityServer\obj\Debug\netcoreapp2.1\CardsAgainstHumanityServer.pdb

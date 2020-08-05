@@ -12,7 +12,7 @@ namespace CardsAgainstHumanityServer
 		public static void LoadCards()
 		{
 			string path = Directory.GetCurrentDirectory();
-			string newPath = Path.GetFullPath(Path.Combine(path, @"..\..\..\Cards.txt"));
+			string newPath = Path.GetFullPath(Path.Combine(path, @"..\..\Cards.txt"));
 
 			Console.WriteLine($"Loading Card..\nPath {newPath}\n");
 
